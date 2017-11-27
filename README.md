@@ -5,4 +5,4 @@ This is my hello world repo!
 
 * I like to play soccer
 * I love rollercoasters
-* I like to go hunting
+* I like to hunt ducks
